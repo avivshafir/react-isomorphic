@@ -1,0 +1,2 @@
+---
+BUNDLE_WITHOUT: "code_quality"
